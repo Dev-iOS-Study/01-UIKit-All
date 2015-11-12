@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Day01/Day01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day02/Day02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day03/Day03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day04/Day04.xcodeproj">
+   </FileRef>
+</Workspace>
